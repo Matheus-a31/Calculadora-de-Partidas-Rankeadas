@@ -23,4 +23,4 @@
   </li>
 </ul>
 <p>A saída deve ser a seguinte</p>
-<p style="text-color: Blue;">O Herói {nome} tem de saldo de {saldoVitorias} está no nível de {nivel}/p>
+<p style="text-color: Blue;">O Herói {nome} tem de saldo de {saldoVitorias} está no nível de {nivel}</p>
