@@ -22,6 +22,5 @@
     Se vitórias for maior ou igual a 101 = Imortal
   </li>
 </ul>
-<hr>
 <p>A saída deve ser a seguinte</p>
 <p>O Herói {nome} tem de saldo de {saldoVitorias} está no nível de {nivel}</p>
